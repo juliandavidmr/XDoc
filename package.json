@@ -1,0 +1,29 @@
+{
+  "name": "XDoc",
+  "version": "1.0.0",
+  "description": "Conversor de documentos definidos por el cliente en archivos XML compatibles con Moodle",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/XDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/XDoc/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/XDoc#readme",
+  "dependencies": {
+    "material-ui": "^0.18.7",
+    "next": "beta",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-tap-event-plugin": "^2.0.1"
+  }
+}
